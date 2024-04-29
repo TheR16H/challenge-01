@@ -2,6 +2,8 @@
 # Description
 This code refactorization was created to make the website more accessible for people.
 
+
+
 ## Contributing
 Pull requests and other contributions and welcome, as long as you test your updates appropriately before merging. 
 
