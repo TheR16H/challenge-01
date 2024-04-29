@@ -2,7 +2,8 @@
 # Description
 This code refactorization was created to make the website more accessible for people.
 
-
+[<img src="./assets/images/readme1.png">](https://github.com/TheR16H/code-refactorization/blob/main/assets/images/readme1.png)
+[<img src="./assets/images/readme2.png">](https://github.com/TheR16H/code-refactorization/blob/main/assets/images/readme2.png)
 
 ## Contributing
 Pull requests and other contributions and welcome, as long as you test your updates appropriately before merging. 
