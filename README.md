@@ -1,15 +1,25 @@
-# Horiseon Code Refactorization
-# Description
-This code refactorization was created to make the website more accessible for people.
+# Code Refactorization
 
-[<img src="./assets/images/readme1.png">](https://github.com/TheR16H/code-refactorization/blob/main/assets/images/readme1.png)
-[<img src="./assets/images/readme2.png">](https://github.com/TheR16H/code-refactorization/blob/main/assets/images/readme2.png)
+## Description
 
-## Contributing
-Pull requests and other contributions and welcome, as long as you test your updates appropriately before merging. 
+This code refactorization was created to make the website more accessible for people, while also condensing / simplifying the code since there alot of repeated inputs.
+
+## Table of Contents
+
+- [Support](#support)
+- [Visuals](#visuals)
+- [Contributions](#contributions)
+- [License](#license)
 
 ## Support
 For support you can email me at exampleemail@readmee.com
+
+## Visuals
+[<img src="./assets/images/readme1.png">](https://github.com/TheR16H/code-refactorization/blob/main/assets/images/readme1.png)
+[<img src="./assets/images/readme2.png">](https://github.com/TheR16H/code-refactorization/blob/main/assets/images/readme2.png)
+
+## Contributions
+Pull requests and other contributions and welcome, as long as you test your updates appropriately before merging. 
 
 ## License
 MIT License
